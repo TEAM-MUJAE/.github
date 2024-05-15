@@ -53,6 +53,9 @@
 	
 > Database <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br/>
+
+ > Server <br/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=aws&logoColor=white"/> <br/>
 	
 > Environment <br/>
         <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> 
