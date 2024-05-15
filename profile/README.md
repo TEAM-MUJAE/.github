@@ -1,52 +1,41 @@
 <div align="center">
 
-# 프로젝트명
+<p align="center">
+  <img src="https://github.com/TEAM-MUJAE/.github/assets/132265893/9c383e09-a60c-423f-a332-c3f8df687bbe" style = "height:20%; width:20%;">
+</p>
+
+# 무재(Mujae) : 무한한 재능
 
 </div>
 
-<p align="center">
-  <img src="프로젝트 로고">
-</p>
-
-## 🎤 AI_PROJECT, 프로젝트명
-
-> 간단한 설명
-
-
-## 🎬 시연 영상
-
-- 링크
-
-</br>
-
-## 💡주요 기능 소개
-</br>
-
-> 1️⃣ 
-
-</br>
 
 ## 🧑‍🤝‍🧑 팀원 소개
+| <div align="center">![이효진 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/863c86d8-cb8d-40fd-9444-6c00bb8376b9)</div> | <div align="center">![김민제 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/24fb3204-993d-4e9d-a6ab-ad00acc44f33)</div> | <div align="center">![배승수 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/1356f161-55b1-4c62-895e-f106e8d0079f)</div> | <div align="center">![조수정 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/902c79dd-a69a-4d03-acd3-cd8606b878ee)</div> | <div align="center">![지미령 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/edebbc07-197e-4ab8-81c0-eee041bd7129)</div> | 
+| ----- | ------- | ------ | ------- | ------ |
+| <div align="center">이효진</div> | <div align="center">김민제</div> | <div align="center">배승수</div> | <div align="center">조수정</div> | <div align="center">지미령</div> |
+| <div align="center">팀장</div> | <div align="center">부팀장</div> | <div align="center">형상관리</div> | <div align="center">문서관리</div> | <div align="center">QA</div> |
 </hr>
 
-> 과정명 </br>
-> 개발기간: -기간-
+## 🔎 Lecture Sources
 
-<!--
-팀원 이름 및 역할 표
-| <div align="center">![IMG_0165](https://github.com/Merge-co/.github/assets/137472733/453e0d8d-ebb1-4af4-85cd-7fabe8a90591)</div> | <div align="center">![IMG_0166](https://github.com/Merge-co/.github/assets/137472733/ff0240cb-0d68-4784-9a25-95062954d90b)</div> | <div align="center">![IMG_0167](https://github.com/Merge-co/.github/assets/137472733/2ce10fa0-3849-42d3-acf3-ce0773735f77)</div> | <div align="center">![IMG_0168](https://github.com/Merge-co/.github/assets/137472733/a7db652f-1c4f-4ecd-8d22-2ec11e7d7d11)</div> | <div align="center">![IMG_0169](https://github.com/Merge-co/.github/assets/137472733/92f61002-1717-4f63-a7a9-369db05a1b40)</div> | 
-| ----- | ------- | ------ | ------- | ------ |
-| <div align="center">김민범</div> | <div align="center">강한성</div> | <div align="center">이소망</div> | <div align="center">배승수</div> | <div align="center">이선호</div> |
-| <div align="center">중고상품</div> | <div align="center">중고상품 및 꾸러미</div> | <div align="center">쪽지 및 1:1 문의</div> | <div align="center">로그인 및 마이페이지</div> | <div align="center">신고관리 및 회원 제재</div> |
--->
-</br>
+<div align="center">
+
+
+| project | category | Repository |
+| ------ | ------ | ------ |
+| 알고보니 | 프론트엔드 | [AlGo보니 FE lecture source](https://github.com/TEAM-MUJAE/Face_AI_Model_Service_FE) |
+| 알고보니 | 백엔드 | [AlGo보니 BE lecture source](https://github.com/TEAM-MUJAE/Face_AI_Model_Service_BE) |
+| 알고보니 | AI 서빙 | [AlGo보니 AI 서빙 lecture source](https://github.com/TEAM-MUJAE/Face_AI_Model_Service_AI_Serving) |
+| X-Remove | 풀스택 | [X-Remove lecture source](https://github.com/TEAM-MUJAE/x-remove) |
+</div>
+
+&nbsp; 
+
 
 ## 🔧 기술 스택
 
-<!--
-
 > Backend <br/>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <br/>
 	
 > Frontend <br/>
@@ -54,27 +43,24 @@
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><br/>
+
+ > AI Serving <br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/><br/>
 	
 > Database <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br/>
 	
-> Server <br/>
-        <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <br/>
-	
 > Environment <br/>
         <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
  
 > Communication <br/>
  	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=Github&logoColor=white"/> <br/>
--->
-
-
-## 📖 Repository
-<!--
-
-📑[BackEnd Repository]() <br/>
-📑[FrontEnd Repository]() <br/>
--->
+	<img src="https://img.shields.io/badge/Slack-000000?style=flat&logo=slack&logoColor=white"/> <br/>
+	<img src="https://img.shields.io/badge/GoogleDrive-4285F4?style=flat&logo=googledrive&logoColor=white"/> <br/>
