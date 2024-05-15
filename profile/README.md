@@ -8,6 +8,7 @@
 
 </div>
 
+## 🏫 과정명 : 인공지능(AI-X) 프로젝트 부트캠프
 
 ## 🧑‍🤝‍🧑 팀원 소개
 | <div align="center">![이효진 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/863c86d8-cb8d-40fd-9444-6c00bb8376b9)</div> | <div align="center">![김민제 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/24fb3204-993d-4e9d-a6ab-ad00acc44f33)</div> | <div align="center">![배승수 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/1356f161-55b1-4c62-895e-f106e8d0079f)</div> | <div align="center">![조수정 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/902c79dd-a69a-4d03-acd3-cd8606b878ee)</div> | <div align="center">![지미령 캐릭터](https://github.com/TEAM-MUJAE/.github/assets/132265893/edebbc07-197e-4ab8-81c0-eee041bd7129)</div> | 
